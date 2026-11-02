@@ -1,0 +1,14 @@
+„Plaktukas = pirk.“ Taip rašoma daugelyje žvakių formacijų lentelių.
+
+Bet ilgas apatinis šešėlis parodo tik tai, kad per tą laikotarpį kaina buvo nusileidusi ir sugrįžo aukštyn. Tai, ar tai ką nors reiškia, priklauso nuo vietos.
+
+Ta pati žvakė:
+• krentančios krypties viduryje dažnai yra tik pauzė;
+• atsitiktinėje vietoje grafiko neturi jokios reikšmės;
+• zonoje, sutampančioje su didesnio intervalo kryptimi, tampa priežastimi atidžiau pažiūrėti į mažesnį intervalą.
+
+Wick Off metode žvakė niekada nėra pirmas žingsnis. Pirma kryptis, tada zona, ir tik tada įėjimo sąlyga.
+
+Kokią žvakių formaciją esi girdėjęs kaip „garantuotą“ signalą?
+
+#technineanalize #zvakes #prekyba #pradedantiesiems

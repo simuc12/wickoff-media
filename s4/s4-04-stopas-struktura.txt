@@ -1,0 +1,12 @@
+Dažna klaida: „rizikuosiu 20 €, tai stopą dėsiu 20 € atstumu“.
+
+Rinkai nesvarbu, kiek eurų tau patogu prarasti. Svarbu, kur yra struktūra.
+
+Wick Off seka tokia:
+1. Randi vietą, kurią pramušus tavo idėja nebegalioja (už dugno ar viršūnės).
+2. Ten dedi stopą.
+3. Pagal atstumą iki stopo apskaičiuoji pozicijos dydį, kad rizika liktų tokia, kokią nusprendei.
+
+Taip stopas turi prasmę, o rizika lieka kontroliuojama.
+
+#rizikosvaldymas #stoploss #technineanalize #prekyba

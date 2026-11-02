@@ -1,0 +1,14 @@
+Penki nuostoliai iš eilės nebūtinai reiškia, kad metodas neveikia.
+
+Paprastas skaičiavimas: jei pasiteisina 4 sandoriai iš 10, per 100 sandorių bent viena 5 nuostolių iš eilės serija pasitaiko apie 98 % atvejų. Net jei pasiteisina pusė sandorių, tai vis tiek apie 81 %.
+
+Serijos yra statistikos dalis, ne ženklas, kad reikia viską keisti.
+
+Ką tai reiškia praktiškai:
+• rizika viename sandoryje turi būti maža (pvz., 1 %);
+• metodo nevertini po 5 ar 10 sandorių;
+• žurnalas parodo, ar laikeisi plano, net kai rezultatas nepatiko.
+
+(Skaičiavimas: tikimybė bent vienos ≥5 nuostolių serijos per 100 nepriklausomų sandorių.)
+
+#rizikosvaldymas #prekyba #statistika #disciplina

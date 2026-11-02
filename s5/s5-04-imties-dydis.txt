@@ -1,0 +1,16 @@
+„Išbandžiau 20 sandorių, neveikia.“ Arba: „20 sandorių, 14 pasiteisino, radau sistemą.“
+
+Abu sprendimai per ankstyvi.
+
+Paprastas skaičiavimas: tarkime, metodas iš tikrųjų pasiteisina lygiai pusėje sandorių. Per 20 sandorių pasiteisinusių dalis apie 96 % atvejų būna bet kur nuo 30 % iki 70 % (nuo 6 iki 14 sandorių). Tas pats metodas gali atrodyti ir silpnas, ir puikus.
+
+Per 100 sandorių tas ruožas susiaurėja iki maždaug 40–60 %.
+
+Ką tai reiškia praktiškai:
+• metodo nevertini pagal pirmas kelias savaites;
+• kiekvieną sandorį užrašai į žurnalą, kad būtų iš ko skaičiuoti;
+• pirmiausia tikrini, ar laikeisi taisyklių, ir tik tada vertini rezultatą.
+
+(Skaičiavimas: binominis skirstinys, 50 % tikimybė, nepriklausomi sandoriai.)
+
+#statistika #prekyba #prekybosžurnalas #technineanalize

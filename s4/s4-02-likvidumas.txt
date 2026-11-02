@@ -1,0 +1,12 @@
+Ar buvo taip, kad kaina pasiekė tavo stopą ir iškart apsisuko?
+
+Dažnai tai ne „rinka prieš tave“, o likvidumas.
+
+Virš ankstesnių viršūnių ir žemiau ankstesnių dugnų paprastai susikaupę daug stop orderių. Kai kaina pasiekia tą vietą, tie orderiai įvykdomi, ir judesys kartais tuo ir baigiasi.
+
+Ką tai reiškia praktiškai:
+• akivaizdus lygis nėra saugiausia vieta stopui;
+• vien prasiveržimas pro viršūnę dar nėra sąlyga įėjimui;
+• laukiama, kaip kaina elgiasi PO to, kai paima likvidumą.
+
+#technineanalize #likvidumas #prekyba #pradedantiesiems

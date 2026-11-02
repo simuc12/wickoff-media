@@ -1,0 +1,12 @@
+Atidarai sandorį ir jis iškart rodo nedidelį minusą? Tai spread.
+
+Spread yra skirtumas tarp kainos, už kurią gali pirkti, ir kainos, už kurią gali parduoti. Prie jo dar gali prisidėti komisiniai.
+
+Kodėl pradedančiajam tai svarbu:
+• kuo arčiau stopas, tuo didesnę rizikos dalį sudaro šios išlaidos;
+• labai mažuose intervaluose jos gali būti beveik tokios pat kaip pats judesys;
+• prieš prekiaujant verta žinoti, kiek tavo rinkoje kainuoja vienas sandoris.
+
+Wick Off metode analizė pradedama nuo dienos grafiko, o įėjimas ieškomas valandiniame. Ne 1 minutės.
+
+#technineanalize #forex #prekyba #pradedantiesiems

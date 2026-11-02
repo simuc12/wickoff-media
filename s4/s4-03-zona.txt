@@ -1,0 +1,14 @@
+Antras Wick Off metodo žingsnis po krypties yra zona.
+
+Šiame BTC/USD dienos grafike po rugpjūčio proveržio kryptis buvo kylanti. Nuo rugpjūčio 22 d. iki rugsėjo 17 d. kaina daugiau nei 10 kartų nusileido į maždaug 75 500–77 000 ruožą.
+
+Rugsėjo 15–16 d. šešėliai nusileido iki ~74 900, tačiau nė viena dienos žvakė šiame laikotarpyje neuždarė žemiau 75 500.
+
+Ką iš to pasimokyti:
+• zona yra ruožas, ne viena tiksli kaina;
+• kaina zonoje dar nėra signalas, tai tik vieta, kur verta stebėti mažesnį intervalą;
+• stopas dedamas už zonos ir jos šešėlių, ne zonos viduryje.
+
+Grafikas rodo praeitį ir yra skirtas mokytis skaityti struktūrą, ne spėti, kas bus toliau.
+
+#btc #technineanalize #grafikai #prekyba

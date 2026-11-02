@@ -1,0 +1,9 @@
+Paskutinis Wick Off sekos žingsnis: kryptis → zona → įėjimas → stop → tikslas.
+
+Tikslas nėra norima suma. Tai vieta grafike, kur kaina greičiausiai sutiks pasipriešinimą: artimiausia ankstesnė viršūnė ar dugnas.
+
+Kai žinai ir stopą, ir tikslą, gali palyginti, ar sandoris apskritai verta dėmesio. Jei iki kliūties per arti, o stopas toli, geriau praleisti.
+
+Praleistas sandoris irgi yra sprendimas pagal planą.
+
+#technineanalize #prekyba #prekybosplanas #pradedantiesiems
