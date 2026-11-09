@@ -1,0 +1,14 @@
+Pratimas. Prieš skaitydami atsakymą, pabandykite patys.
+
+Grafike – BTC/USD dienos žvakės. Pasižymėkite viršūnes ir dugnus (swing taškus: bent po 2 žvakes kiekvienoje pusėje) ir atsakykite:
+1. Kokia kryptis: kylanti, krentanti ar šoninė?
+2. Kuris lygis ją pakeistų?
+
+Parašykite atsakymą komentaruose.
+
+Atsakymas: kryptis kylanti. Dugnai kilo: 64 955 (kovo 29 d.) → 65 696 → 70 526 → 73 309 → 73 753 → 74 912 (balandžio 29 d.). Viršūnės taip pat: 69 268 → 76 120 → 78 384 → 79 500 → 82 833 (gegužės 6 d.). Balandžio 22 ir 27 d. viršūnės beveik lygios (79 500 ir 79 490), bet po jų dugnas (74 912) vis tiek buvo aukštesnis už ankstesnį (73 753).
+Kryptį pakeistų dienos žvakės uždarymas žemiau paskutinio dugno, 74 912.
+
+Struktūros skaitymas plačiau – Wick Off kurso 2 modulyje · wickoff.lt
+
+#pratimas #technineanalize #rinkosstruktura #btc

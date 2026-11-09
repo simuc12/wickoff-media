@@ -1,0 +1,17 @@
+Dažna pradedančiųjų klaida: zona pažymėta teisingai, kaina į ją atėjo, ir sandoris atidaromas iškart.
+
+Bet kaina zonoje dar nieko nepasako. Ji gali sustoti, o gali pereiti kiaurai. Iš anksto to nežino niekas.
+
+Wick Off taisyklė (3 žingsnis – įėjimas):
+• H4 zona pasako, KUR laukti;
+• H1 grafike lauki struktūros pasikeitimo (CHoCH) D1 krypties pusėn;
+• įeini tik po H1 žvakės uždarymo, ne po šešėlio;
+• jei sąlygos nėra, sandorio nėra, net jei kaina vėliau nuėjo „tavo“ kryptimi.
+
+Šios savaitės BTC/USD pavyzdyje kaina į pasiūlos zoną atėjo lapkričio 4 d. vakare, o sąlyga įėjimui atsirado tik kitos dienos popietę. Beveik parą sandorio nebuvo.
+
+Vakare šią sąlygą parodysime ant H1 grafiko.
+
+Įėjimo sąlyga plačiau – Wick Off kurso 6 modulyje (Kelių intervalų analizė) · wickoff.lt
+
+#technineanalize #prekybosplanas #prekyba #pradedantiesiems

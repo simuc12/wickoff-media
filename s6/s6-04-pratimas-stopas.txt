@@ -1,0 +1,14 @@
+Pratimas. Šiandien ryte rodėme pasiūlos zoną BTC/USD H4 grafike. Štai situacija lapkričio 5 d. ryte: D1 kryptis krentanti, kaina grįžo į zoną 80 750–81 900 ir buvo pakilusi iki 81 105.
+
+Tarkime, planuojama pardavimo idėja zonoje. Kur dėtumėte stopą?
+A) virš 81 105 (lapkričio 4 d. viršūnė)
+B) virš 81 900 (zonos viršus) su nedidele atsarga
+C) fiksuotu 500 dolerių atstumu nuo įėjimo, kad nuostolis būtų mažas
+
+Parašykite komentaruose A, B ar C.
+
+Atsakymas: B. Stopas dedamas ten, kur idėja nebegalioja. Kol kaina neperžengė visos zonos ir jos šešėlių, pasiūlos zona dar galioja. Variantas A yra zonos viduje, todėl jį gali užkabinti vien šešėlis. Variantas C pririštas prie sumos, o ne prie struktūros. Pozicijos dydis skaičiuojamas pagal atstumą iki stopo, o ne atvirkščiai.
+
+Stopas ir rizika plačiau – Wick Off kurso 7 modulyje (Rizikos valdymas) · wickoff.lt
+
+#pratimas #rizikosvaldymas #technineanalize #prekyba

@@ -1,0 +1,18 @@
+Antras Wick Off metodo žingsnis: zona. Kryptis jau žinoma, dabar ieškai vietos, kur jos laukti.
+
+BTC/USD D1 kryptis nuo spalio 8 d. buvo krentanti. H4 grafike spalio 29 d. kaina dar pakilo iki 81 888, o tada per vieną H4 žvakę krito iki 77 719.
+
+Kaip pažymėti tokią zoną:
+1. Randi stiprų judesį D1 kryptimi (čia – kritimą).
+2. Grįžti į vietą, iš kurios jis prasidėjo: paskutinės žvakės prieš kritimą.
+3. Zoną brėži nuo kritimo pradžios iki viršutinio šešėlio: 80 750–81 900.
+
+Lapkričio 4 d. kaina į zoną grįžo pirmą kartą (max 81 105), bet nė viena H4 žvakė neužsidarė virš 80 750. Lapkričio 5 d. kaina nukrito iki 75 088.
+
+Svarbu: ne kiekviena zona atsilaiko, o kiekvienas grįžimas ją silpnina. Zona yra vieta, kur lauki įėjimo sąlygos, o ne signalas. Kurse zonos dar įvertinamos 0–8 taškais, kad būtų aišku, kurios vertos dėmesio.
+
+Grafikas rodo praeitį ir skirtas mokytis skaityti struktūrą, ne spėti, kas bus toliau.
+
+Zonos plačiau – Wick Off kurso 3 modulyje (Pasiūla ir paklausa) · wickoff.lt
+
+#technineanalize #zonos #btc #prekyba

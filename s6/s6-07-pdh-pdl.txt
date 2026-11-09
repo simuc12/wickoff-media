@@ -1,0 +1,19 @@
+PDH ir PDL – du lygiai, kuriuos verta pasižymėti kiekvieną rytą prieš pradedant analizę.
+
+PDH (Previous Day High) – vakar dienos maksimumas.
+PDL (Previous Day Low) – vakar dienos minimumas.
+
+Kodėl jie svarbūs: tai akivaizdūs lygiai, kuriuos mato daugelis. Virš PDH ir žemiau PDL dažnai susikaupę stop orderiai, t. y. likvidumas.
+
+Kaip juos naudoti Wick Off metode:
+• 5 žingsnis (tikslas): PDH ar PDL gali būti artimiausia kliūtis, iki kurios skaičiuoji tikslą;
+• 4 žingsnis (stop): stopo nededi tiksliai ties PDH ar PDL, nes ten jis pasiekiamas pirmas;
+• kaina praėjo pro PDH ar PDL ir grįžo atgal? Tai dar ne įėjimas. Sąlygos vis tiek lauki H1 grafike.
+
+Kriptovaliutų grafikuose diena dažniausiai skaičiuojama nuo 00:00 UTC, t. y. nuo 02:00 Lietuvos laiku žiemą.
+
+Pasižymėk šiandien savo grafike: kur buvo vakar dienos maksimumas ir minimumas?
+
+Likvidumas ir PDH/PDL plačiau – Wick Off kurso 4 modulyje · wickoff.lt
+
+#technineanalize #likvidumas #prekyba #pradedantiesiems

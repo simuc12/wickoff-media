@@ -1,0 +1,21 @@
+Trečias Wick Off metodo žingsnis: įėjimas. Kryptis ir zona jau yra, trūksta sąlygos.
+
+Tęsiame šios savaitės BTC/USD pavyzdį:
+1. Kryptis (D1): krentanti nuo spalio 8 d.
+2. Zona (H4): pasiūlos zona 80 750–81 900. Lapkričio 4 d. kaina į ją grįžo ir pakilo iki 81 105.
+3. Įėjimas (H1): lauki, kol H1 struktūra pasisuks žemyn, D1 krypties pusėn.
+
+Po viršūnės 81 105 H1 grafike susiformavo dugnai 79 863 ir 80 174. Sąlyga – H1 žvakės uždarymas žemiau jų. Ji atsirado lapkričio 5 d.: 15:00 Lietuvos laiku H1 žvakė užsidarė ties 79 574. Tai CHoCH, struktūros pasikeitimas.
+
+Kaip tai pritaikyti savo grafike:
+• skaičiuojasi H1 žvakės uždarymas, ne šešėlis;
+• sąlyga turi sutapti su D1 kryptimi;
+• kol sąlygos nėra, sandorio nėra. Šiuo atveju kaina prie zonos svyravo beveik parą.
+
+Kitame žingsnyje: kur tokiame sandoryje eina stopas.
+
+Grafikas rodo praeitį ir skirtas mokytis skaityti struktūrą, ne spėti, kas bus toliau.
+
+Įėjimo sąlyga plačiau – Wick Off kurso 6 modulyje (Kelių intervalų analizė) · wickoff.lt
+
+#technineanalize #choch #btc #prekyba

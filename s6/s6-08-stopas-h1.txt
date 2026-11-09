@@ -1,0 +1,20 @@
+Ketvirtas Wick Off metodo žingsnis: stopas. Tęsiame vakarykštį pavyzdį.
+
+Įėjimas: 79 574, po H1 CHoCH lapkričio 5 d.
+
+Kur idėja nebegalioja? Ji remiasi pasiūlos zona 80 750–81 900. Jei kaina pakiltų virš visos zonos ir jos šešėlių (spalio 29 d. viršūnė 81 888), zona nebeveiktų, o kartu ir idėja.
+
+Todėl stopas – virš zonos, su nedidele atsarga: 82 000. Tai ir trečiadienio pratimo atsakymas B.
+Atstumas iki stopo: 82 000 − 79 574 = 2 426. Tai 1R šiame sandoryje.
+
+Kaip tai pritaikyti savo grafike:
+• stopą rinkis pagal struktūrą, ne pagal patogią sumą;
+• palik atsargą už šešėlio, o ne pačiame lygyje;
+• pozicijos dydį skaičiuok pagal šį atstumą, kad rizika liktų tokia, kokią nusprendei (pvz., 1 % sąskaitos);
+• jei stopas per toli tavo rizikai, sandorį praleidi, o ne stumi stopą arčiau.
+
+Paskutinis žingsnis, tikslas, rytoj. Ten paaiškės, ar šis sandoris apskritai vertas dėmesio.
+
+Stopas ir pozicijos dydis plačiau – Wick Off kurso 7 modulyje (Rizikos valdymas) · wickoff.lt
+
+#rizikosvaldymas #stoploss #technineanalize #prekyba

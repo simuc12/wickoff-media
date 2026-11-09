@@ -1,0 +1,14 @@
+„Perkelk į BE ir miegok ramiai.“ Vienas dažniausių patarimų pradedantiesiems. Bet ar BE visada padeda?
+
+BE (breakeven) – kai stopas perkeliamas į įėjimo kainą. Jei kaina grįžta, sandoris uždaromas ties nuliu.
+
+Kur slypi kaina:
+• kaina dažnai atsitraukia prieš judėdama toliau, todėl dalis sandorių, kurie būtų pasiekę tikslą, uždaromi ties nuliu;
+• kurso 7 modulio tyrime su 211 istorinių BTC/USD sandorių BE ties +1R rezultato reikšmingai nepakeitė, skirtumai buvo paklaidos ribose;
+• BE dažnai naudojamas ne dėl metodo, o dėl to, kad sunku žiūrėti, kaip pliusas tirpsta.
+
+Wick Off taisyklė (4 žingsnis – stop): jei naudoji BE, nusprendi prieš sandorį, kada tiksliai jį perkelsi, ir laikaisi to kiekvieną kartą. Ne pagal nuotaiką.
+
+Stopo valdymas plačiau – Wick Off kurso 7 modulyje (Rizikos valdymas) · wickoff.lt
+
+#rizikosvaldymas #breakeven #technineanalize #prekyba

@@ -1,0 +1,18 @@
+Kryptis, stopas, tikslas. Net trys iš penkių Wick Off metodo žingsnių remiasi tuo pačiu: swing taškais.
+
+Swing taškas yra viršūnė ar dugnas, nuo kurio kaina aiškiai pasisuko.
+
+Kaip juos pasižymėti savo grafike:
+• viršūnė: abiejose pusėse bent po 2 žvakes su žemesnėmis viršūnėmis;
+• dugnas: abiejose pusėse bent po 2 žvakes su aukštesniais dugnais;
+• taškas patvirtinamas tik susiformavus 2 žvakėms po jo, iki tol jis tik kandidatas;
+• žymi tame intervale, kurį tuo metu analizuoji: D1 kryptis, H4 zona, H1 įėjimas.
+
+Kam jų reikia metode:
+1 Kryptis: ar viršūnės ir dugnai kyla (HH/HL), ar leidžiasi (LH/LL).
+4 Stop: už to swing taško, kurį pramušus idėja nebegalioja.
+5 Tikslas: artimiausias priešingas swing taškas.
+
+Swing taškai ir struktūra plačiau – Wick Off kurso 2 modulyje · wickoff.lt
+
+#technineanalize #rinkosstruktura #prekyba #pradedantiesiems

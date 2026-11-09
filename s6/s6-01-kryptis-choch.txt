@@ -1,0 +1,18 @@
+Po rugsėjo 21 d. viršūnės (87 374) BTC/USD dienos grafike 10 iš 16 dienų (09-22–10-07) užsidarė raudonai. Ar kryptis jau buvo krentanti?
+
+Pagal Wick Off metodą – dar ne.
+
+Kaip nustatyti kryptį savo grafike:
+1. Pasižymi paskutinę viršūnę ir paskutinį dugną (swing taškus).
+2. Randi lygį, kuris pakeistų kryptį. Čia tai rugsėjo 28 d. dugnas, 82 555.
+3. Lauki dienos žvakės uždarymo už jo. Šešėlis nesiskaito.
+
+Spalio 2 d. viršūnė (87 219) buvo šiek tiek žemesnė už ankstesnę, bet kryptis dar nepasikeitė. Tik spalio 8 d. dienos žvakė užsidarė žemiau 82 555 (ties 81 676). Tai CHoCH, krypties pasikeitimas. Po jo dugnai ėjo vis žemyn: 79 694 → 79 146 → 76 173.
+
+Kol nėra uždarymo už lygio, raudonos žvakės yra tik atšokimas, o ne nauja kryptis.
+
+Grafikas rodo praeitį ir skirtas mokytis skaityti struktūrą, ne spėti, kas bus toliau.
+
+Kryptis plačiau – Wick Off kurso 2 modulyje (Rinkos struktūra) · wickoff.lt
+
+#technineanalize #rinkosstruktura #btc #prekyba

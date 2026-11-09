@@ -1,0 +1,21 @@
+Per pastarąją savaitę ėjome per visus 5 Wick Off metodo žingsnius ant vieno BTC/USD pavyzdžio: kryptis → zona → įėjimas → stop → tikslas.
+
+Kurse kiekvienas žingsnis turi savo modulį:
+• 1 Kryptis – 2 modulis (Rinkos struktūra)
+• 2 Zona – 3 modulis (Pasiūla ir paklausa) ir 4 modulis (Likvidumas)
+• 3 Įėjimas – 6 modulis (Kelių intervalų analizė)
+• 4 Stop ir 5 Tikslas – 7 modulis (Rizikos valdymas)
+
+Aplink juos: 1 modulis (Pagrindai), 5 modulis (Wyckoff metodas), 8 modulis (Prekybos planas ir žurnalas) ir 9 modulis (Psichologija ir drausmė).
+
+Iš viso 9 PDF moduliai (169 psl.) su realiais grafikais ir Excel prekybos žurnalas. Failus gauni el. paštu iškart po apmokėjimo.
+
+Išmok vieną metodą. Bet kuriai rinkai.
+
+Starto kaina 39 €, vėliau 69 €.
+
+wickoff.lt
+
+Prekyba susijusi su rizika. Kursas yra mokomasis ir nėra investicinė rekomendacija.
+
+#technineanalize #kursas #prekyba #pradedantiesiems
